@@ -8,4 +8,4 @@ function Page1() {
   );
 }
 
-export default App;
+export default Page1;
