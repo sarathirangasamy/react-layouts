@@ -32,6 +32,10 @@ progress {
   vertical-align: baseline;
 }
 
+.progress-h1 {
+font-size: 10px;  
+}
+
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
